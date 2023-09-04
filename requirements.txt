@@ -1,0 +1,4 @@
+
+    Python ^3.11.0
+    Node.js (^18.16.1 LTS) - Since we will use React.js
+    Yarn - a Node.js package manager
