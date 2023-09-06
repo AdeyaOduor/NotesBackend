@@ -4,7 +4,8 @@ $ source venv_backend/bin/activate
 
 # $ pip install fastapi sqlalchemy
 
-# NotesBackend
+# Project structure
+NotesBackend
 ├── main.py
 ├── model
 │   ├── __init__.py
